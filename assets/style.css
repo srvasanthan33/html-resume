@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#heading {
+    background-color: #381874;
+    color: white;
+    padding: 30px;
+}
+
+.bio {
+    padding: 30px;
+}
+
+#sec {
+    background-color: #d1c4e9;
+    padding: 30px;
+}
+
+dl {
+    margin: 20px;
+}
