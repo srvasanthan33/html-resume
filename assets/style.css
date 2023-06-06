@@ -1,20 +1,21 @@
 * {
     margin: 0;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
 #heading {
-    background-color: #381874;
-    color: white;
+    background-color: #132d5c;
+    color: #9fc1ff;
     padding: 30px;
 }
 
 .bio {
     padding: 30px;
+    font-size: 20px;
 }
 
 #sec {
-    background-color: #d1c4e9;
+    background-color: #cedefd;
     padding: 30px;
 }
 
